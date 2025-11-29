@@ -1,4 +1,3 @@
-
 <?php
 $host = 'localhost';
 $dbname = 'dolphin_crm';

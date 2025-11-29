@@ -1,5 +1,3 @@
-<?php echo "This is sidebar.php"; ?>
-
 <div class="sidebar">
     <h2>Dolphin CRM</h2>
     <ul>

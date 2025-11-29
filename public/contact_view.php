@@ -1,5 +1,3 @@
-<?php echo "This is contact_view.php"; ?>
-
 <?php
 require_once "../includes/auth.php";
 require_once "../includes/db.php";

@@ -1,5 +1,3 @@
-<?php echo "This is header.php"; ?>
-
 <!DOCTYPE html>
 <html>
 <head>
